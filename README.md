@@ -1,14 +1,13 @@
-<h1 align="center">BioImage Analyst :mag: </h1>
-<h3 align="center">Currently working as bioimage analyst at Confocal Microscopy Unit at Spanish National Cancer Research Center-CNIO.</h3>
+<h1 align="center">👋 Welcome to My GitHub Profile! </h1>
+<h3 align="left">🔬About me:</h3>
+Hello! I'm bioimage analyst at Confocal Microscopy Unit at Spanish National Cancer Research Center-CNIO.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acayuelalopez&label=Profile%20views&color=0e75b6&style=flat" alt="acayuelalopez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acayuelalopez" alt="acayuelalopez" /></a> </p>
-
-- 📫 How to reach me: **acayuela@cnio.es**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Contact:</h3>
+- Feel free to reach out to me: acayuela@cnio.es
 <p align="left">
 </p>
 
