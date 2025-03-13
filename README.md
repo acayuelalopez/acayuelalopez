@@ -1,5 +1,5 @@
 <h1 align="center">BioImage Analyst :mag: </h1>
-<h3 align="center">In 2019 I started my PhD at National Centre for Biotechnology(CNB-CSIC) in Madrid in the Biocomputing Unit. My research involved the development and application of bioimage analysis methods for optical and correlative microscopy images. Strong background in open-source image analysis, computer vision and software developement. Currently working as bioimage analyst at Confocal Microscopy Unit at Spanish National Cancer Research Center-CNIO.</h3>
+<h3 align="center">Currently working as bioimage analyst at Confocal Microscopy Unit at Spanish National Cancer Research Center-CNIO.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acayuelalopez&label=Profile%20views&color=0e75b6&style=flat" alt="acayuelalopez" /> </p>
