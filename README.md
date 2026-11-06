@@ -92,7 +92,6 @@ I develop practical and reproducible workflows for microscopy image analysis, ce
 </div>
 
 ---
-
 <div align="center">
 <sub>Bioimage analysis · Quantitative microscopy · Reproducible workflows</sub>
 </div>
